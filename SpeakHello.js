@@ -7,4 +7,4 @@
 	window.helloSpeaker = helloSpeaker;
 })(window);
 
-// Developed by SeyedMohammadMahdi Kaei
+// Developed by Mohammad Kiaei
