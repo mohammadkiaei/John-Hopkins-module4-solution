@@ -7,4 +7,4 @@
 	window.byeSpeaker = byeSpeaker;
 })(window);
 
-// Developed by SeyedMohammadMahdi Kiaei
+// Developed by Mohammad Kiaei
